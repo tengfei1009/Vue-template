@@ -1,0 +1,16 @@
+{
+  "id": "4532023",
+  "name": "shop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "移动端商城",
+  "glyphs": [
+    {
+      "icon_id": "39690739",
+      "name": "地球",
+      "font_class": "diqiu",
+      "unicode": "e795",
+      "unicode_decimal": 59285
+    }
+  ]
+}
